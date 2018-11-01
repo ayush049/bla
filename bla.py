@@ -1,4 +1,4 @@
 def foo():
-    print("Hello World")
+    print("ayush and puneet")
 
 foo()
